@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import sys, os, re, binascii, base64, shlex
 
 def cls():
